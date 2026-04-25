@@ -1,7 +1,7 @@
-# cd
-atuin, autojump, bookmarks, CDPATH, z, zoxide... Let's settle this once and for all.
+# c(d)
+atuin, autojump, bookmarks, CDPATH, McFly, z, zoxide... Let's settle this once and for all.
 
-Ya'll need to stop this directory bookmarking thing. Nevermind z. Don't bother with autojump. Leave aside zoxide. Skip McFly. No, don't invent your own. No, we don't need 400 lines of Go, or 700 lines of Rust, in another GitHub repo of 16 files and 5 pages of AI-generated documentation. Ya'll fools just need to grasp the shell a little and embrace files. No, I'm not joking.
+Ya'll need to stop this directory bookmarking thing. Nevermind `z`. Don't bother with `autojump`. Leave aside `zoxide`. Skip `McFly`. No, don't invent your own. No, we don't need 400 lines of Go, or 700 lines of Rust, in another GitHub repo of 16 files and 5 pages of AI-generated documentation. Ya'll fools just need to grasp the shell a little and embrace files. No, I'm not joking.
 
 ```sh
 CDHISTFILE="$HOME/.cd_history"
