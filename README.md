@@ -12,7 +12,7 @@ cd() {
 
 POSIX. 2 fking lines. Bulletproof. Unbeatable.
 
-tac it, dedupe with awk, and feed it to your fuzzy picker. Un. Beatable. Here, I'll do it for you:
+`tac` it, dedupe with `awk`, and feed it to your fuzzy picker. Un. Beatable. Here, I'll do it for you:
 
 ```sh
 c() {
