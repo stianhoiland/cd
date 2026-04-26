@@ -6,7 +6,7 @@ Y'all need to stop this directory bookmarking thing. Nevermind `z`. Don't bother
 ```sh
 CDHISTFILE="$HOME/.cd_history"
 cd() {
-  command cd "$@" && printf '%s\n' >> "$CDHISTFILE"
+  command cd "$@" && printf '%s\n' "$PWD" >> "$CDHISTFILE"
 }
 ```
 
@@ -39,7 +39,7 @@ DECOLORIZE="s,$ESC[0-9;]*[mK],,g"
 
 CDHISTFILE="$HOME/.cd_history"
 cd() {
-  command cd "$@" && printf '%s\n' >> "$CDHISTFILE"
+  command cd "$@" && printf '%s\n' "$PWD" >> "$CDHISTFILE"
 }
 
 c() {
