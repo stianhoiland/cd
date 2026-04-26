@@ -24,7 +24,7 @@ You can't outdo this. No, I'm not joking. This needs to be PSA'd and stickied fo
 
 3 fking lines. Stop this overengineering bullshit.
 
-Whatever, whoever, is responsible for these brains confabulating this complexity hell needs to suffer. Ya'll are duped the fuck outta your minds. Use a little creativity, kill a little complexity. Is it so fucking hard?
+Whatever, whoever, is responsible for these brains confabulating this complexity hell needs to suffer. Y'all are duped the fuck outta your minds. Use a little creativity, kill a little complexity. Is it so fucking hard?
 
 I'm feeling friendly. Here, have some color for that awesome little utility. Makes it easier to parse the paths. And I'll put it all in one package. Get your addon downloader! Your plugin manager! Your dotfile organizer! Pin it, lock it to a SHA; gotta track those 17 dependencies! Enshittify the fuck outta it! Oh wait, you can't; it's just a fking little script–albeit with lots of power. Dependency manage your way out of that!
 
