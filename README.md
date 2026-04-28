@@ -35,7 +35,7 @@ RESET="$ESC[0m"
 # sed -r: colorize last path component
 COLORIZE="s,([^/]+/?)$,$YELLOW\1$RESET,"
 # sed: strip ansi color sequences
-DECOLORIZE="s,$ESC[0-9;]*[mK],,g"
+DECOLORIZE="s,$ESC[[0-9;]*[mK],,g"
 
 CDHISTFILE="$HOME/.cd_history"
 cd() {
